@@ -1,0 +1,15 @@
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\bin\Debug\net6.0\Swork.exe
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\bin\Debug\net6.0\Swork.deps.json
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\bin\Debug\net6.0\Swork.runtimeconfig.json
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\bin\Debug\net6.0\Swork.dll
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\bin\Debug\net6.0\Swork.pdb
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\obj\Debug\net6.0\Swork.csproj.AssemblyReference.cache
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\obj\Debug\net6.0\Swork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\obj\Debug\net6.0\Swork.AssemblyInfoInputs.cache
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\obj\Debug\net6.0\Swork.AssemblyInfo.cs
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\obj\Debug\net6.0\Swork.csproj.CoreCompileInputs.cache
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\obj\Debug\net6.0\Swork.dll
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\obj\Debug\net6.0\refint\Swork.dll
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\obj\Debug\net6.0\Swork.pdb
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\obj\Debug\net6.0\Swork.genruntimeconfig.cache
+C:\Users\HYPERPC\Desktop\study\SummaryWork\Swork\obj\Debug\net6.0\ref\Swork.dll
